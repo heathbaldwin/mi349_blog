@@ -28,3 +28,8 @@ p {
     border-bottom: 1px dotted #ccc;
 }
 
+.crop {
+    height: 100px;
+     width: 100px;
+    overflow: hidden
+}
