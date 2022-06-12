@@ -19,7 +19,7 @@ h1 {
     margin: 0;
 }
 h2 {
-    font-size: 2em;
+    font-size: 3em;
     font-weight: 800;
     margin: 0;
 }
@@ -51,10 +51,6 @@ article {
 
 }
 
-.author {
-    font-weight: 400;
-    color: blanchedalmond;
-}
 
 section{
     display: flex;
@@ -75,4 +71,9 @@ header {
     background-color: white;
     position: sticky;
     top: 0;
+}
+
+.image-container {
+    float: left;
+    margin-right: 10px;
 }
