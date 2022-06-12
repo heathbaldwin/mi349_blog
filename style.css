@@ -11,6 +11,8 @@ body {
     background-color: #fff;
 }
 
+
+
 h1 {
     font-size: 3em;
     font-weight: 800;
@@ -54,11 +56,23 @@ article {
     color: blanchedalmond;
 }
 
+section{
+    display: flex;
+}
+
 #blog {
     font-weight: 100px;
+
 }
 
 .blog-post {
     border-bottom: 2px solid #ccc;
     margin: 50px;
+
+}
+
+header {
+    background-color: white;
+    position: sticky;
+    top: 0;
 }
